@@ -1,6 +1,6 @@
 ## Welcome to my website
 
-![](/images/kreddy_sr.jpg|width=100)
+![mkreddy](images/kreddy_sr.jpg|width=100)
 
 I am Konda Reddy Mopuri, a PhD student aat [Video Analytics Lab](http://val.serc.iisc.ernet.in/), Department of Computational and Data Sciences ([CDS](http://cds.iisc.ac.in/)), [Indian Institute of Science](http://iisc.ac.in), Bangalore, India.
 
