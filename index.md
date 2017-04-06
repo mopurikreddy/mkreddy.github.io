@@ -2,9 +2,9 @@
 
 ![](./images/kreddy_thumb.jpg)
 
-I am Konda Reddy Mopuri, a PhD student at [Video Analytics Lab](http://val.serc.iisc.ernet.in/), Department of Computational and Data Sciences ([CDS](http://cds.iisc.ac.in/)), [Indian Institute of Science](http://iisc.ac.in), Bangalore, India. My adviser is [Prof. R. Venkatesh Babu](http://www.serc.iisc.ernet.in/~venky/).
+I am Konda Reddy Mopuri, a PhD student advised by [Prof. R. Venkatesh Babu](http://www.serc.iisc.ernet.in/~venky/), at [Video Analytics Lab](http://val.serc.iisc.ernet.in/), Department of Computational and Data Sciences ([CDS](http://cds.iisc.ac.in/)), [Indian Institute of Science](http://iisc.ac.in), Bangalore, India.
 
-
+-----
 
 ### Markdown
 
