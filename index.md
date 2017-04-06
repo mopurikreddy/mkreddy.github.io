@@ -5,7 +5,10 @@
 I am Konda Reddy Mopuri, a PhD student advised by [Prof. R. Venkatesh Babu](http://www.serc.iisc.ernet.in/~venky/), at [Video Analytics Lab](http://val.serc.iisc.ernet.in/), Department of Computational and Data Sciences ([CDS](http://cds.iisc.ac.in/)), [Indian Institute of Science](http://iisc.ac.in), Bangalore, India.
 
 -----
+## Research Interests
 
+I work primarily in the area of computer vision. My research interests are learning and understanding deep visual representations.
+-----
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
