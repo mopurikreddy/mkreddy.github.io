@@ -23,8 +23,8 @@ I work primarily in the areas of Computer Vision and Deep Learning. Lately I hav
 
 ### 2018
 
-- Konda Reddy Mopuri, Vishal B Athreya, R. Venkatesh Babu, "Learning Representations with Strong Supervision for Image Search", SPCOM 2018 [Project](https://github.com/mopurikreddy/strong-supervision).
-- Konda Reddy Mopuri*, Utkarsh Ojha*, Utsav Garg and R. Venkatesh Babu, "NAG: Network for Adversary Generation, CVPR 2018 (To be presented in June)[PDF](https://arxiv.org/abs/1712.03390)[Project](http://val.serc.iisc.ernet.in/nag/).
+- Konda Reddy Mopuri, Vishal B Athreya, R. Venkatesh Babu, "Learning Representations with Strong Supervision for Image Search", SPCOM 2018 (To be presented) [[Project]](https://github.com/mopurikreddy/strong-supervision).
+- Konda Reddy Mopuri*, Utkarsh Ojha*, Utsav Garg and R. Venkatesh Babu, "NAG: Network for Adversary Generation, CVPR 2018 (To be presented in June)[[PDF]](https://arxiv.org/abs/1712.03390)[Project](http://val.serc.iisc.ernet.in/nag/).
 
 ### 2017
 
