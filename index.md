@@ -15,10 +15,11 @@ I work primarily in the areas of Computer Vision and Deep Learning. Lately I hav
 - July 18, 2017: Paper with [Utsav Garg](https://utsavgarg.github.io/) titled “Fast Feature Fool: A data independent approach to universal adversarial perturbations” is accepted in **[<span style="color:red">BMVC-2017</span>](https://bmvc2017.london)** and is available [here](https://arxiv.org/abs/1707.05572).
 
 ## Research
+![](./images/research-april-2018.png)
 
 - Augmenting Deep Visual Representations with Side and Additional Information
 - Visualizing the Deep Visual Representations
-- Susceptibility of the Learned Representations to Adversarial perturbations
+- Susceptibility of the Learned Representations to Adversarial Perturbations
 
 ## Publications
 
