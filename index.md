@@ -16,8 +16,9 @@ I work primarily in the areas of Computer Vision and Deep Learning. Lately I hav
 
 ## Research
 
-- 
-- 
+- Augmenting Deep Visual Representations with Side and Additional Information
+- Visualizing the Deep Visual Representations
+- Susceptibility of the Learned Representations to Adversarial perturbations
 
 ## Publications
 
@@ -39,4 +40,4 @@ I work primarily in the areas of Computer Vision and Deep Learning. Lately I hav
 
 ### 2015
 
-- Konda Reddy Mopuri, R. Venkatesh Babu, "Object Level Deep Feature Pooling for Compact Image Representation", in CVPRW, DeepVision 2015. [Project](https://sites.google.com/site/kreddymopuri/research/oldf)[[PDF](http://www.cv-foundation.org/openaccess/content_cvpr_workshops_2015/W03/papers/Mopuri_Object_Level_Deep_2015_CVPR_paper.pdf)].
+- Konda Reddy Mopuri, R. Venkatesh Babu, "Object Level Deep Feature Pooling for Compact Image Representation", in CVPRW, DeepVision 2015. [[Project](https://sites.google.com/site/kreddymopuri/research/oldf)][[PDF](http://www.cv-foundation.org/openaccess/content_cvpr_workshops_2015/W03/papers/Mopuri_Object_Level_Deep_2015_CVPR_paper.pdf)].
