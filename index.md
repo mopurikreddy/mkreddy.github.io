@@ -23,6 +23,8 @@ I work primarily in the areas of Computer Vision and Deep Learning. Lately I hav
 
 ## Publications
 
+For a full list of publications click [here](./publications.html)
+
 ### 2018
 
 - Konda Reddy Mopuri, Vishal B Athreya, R. Venkatesh Babu, "Learning Representations with Strong Supervision for Image Search", SPCOM 2018 (To be presented) [[Project](https://github.com/mopurikreddy/strong-supervision)].
