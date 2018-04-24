@@ -31,7 +31,7 @@ I work primarily in the areas of Computer Vision and Deep Learning. Lately I hav
 ### 2017
 
 - Konda Reddy Mopuri*, Utsav Garg* and R. Venkatesh Babu, "CNN-Fixations: An unraveling approach to visualize the discriminative image regions" arXiv preprint arXiv:1708.06670.
-- Konda Reddy Mopuri*, Utsav Garg* and R. Venkatesh Babu, "Fast Feature Fool: A data independent approach to universal adversarial perturbations", BMVC 2017 [[PDF](https://arxiv.org/abs/1707.05572)[Project](https://github.com/utsavgarg/fast-feature-fool)].
+- Konda Reddy Mopuri*, Utsav Garg* and R. Venkatesh Babu, "Fast Feature Fool: A data independent approach to universal adversarial perturbations", BMVC 2017 [[PDF](https://arxiv.org/abs/1707.05572)][[Project](https://github.com/utsavgarg/fast-feature-fool)].
 
 ### 2016
 
