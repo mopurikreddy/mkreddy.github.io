@@ -1,8 +1,6 @@
 ## Welcome to my website
 
-![](./images/kreddy_thumb.jpg)
-
-I am Konda Reddy Mopuri (కొండా రెడ్డి మోపూరి ), a PhD student advised by [Prof. R. Venkatesh Babu](http://www.serc.iisc.ernet.in/~venky/), at [Video Analytics Lab](http://val.serc.iisc.ernet.in/), Department of Computational and Data Sciences ([CDS](http://cds.iisc.ac.in/)), [Indian Institute of Science](http://iisc.ac.in), Bangalore, India.
+![](./images/kreddy_thumb.jpg) I am Konda Reddy Mopuri (కొండా రెడ్డి మోపూరి ), a PhD student advised by [Prof. R. Venkatesh Babu](http://www.serc.iisc.ernet.in/~venky/), at [Video Analytics Lab](http://val.serc.iisc.ernet.in/), Department of Computational and Data Sciences ([CDS](http://cds.iisc.ac.in/)), [Indian Institute of Science](http://iisc.ac.in), Bangalore, India.
 
 My [CV](https://drive.google.com/file/d/0B03bwxgziaQydko0dmRFSkNxblE/view?usp=sharing) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=OCZ2vIYAAAAJ)
 ## Research Interests
@@ -22,6 +20,7 @@ I work primarily in the areas of Computer Vision and Deep Learning. Lately I hav
 -
 
 ## Publications
+
 # 2018
 
 - Konda Reddy Mopuri, Vishal B Athreya, R. Venkatesh Babu, "Learning Representations with Strong Supervision for Image Search", SPCOM 2018 [Project](https://github.com/mopurikreddy/strong-supervision).
