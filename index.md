@@ -14,7 +14,7 @@ I work primarily in the areas of Computer Vision and Deep Learning. Lately I hav
 - April 11, 2018: Our paper with Vishal B Athreya is accepted in **[<span style="color:red">SPCOM-2018**</span>](http://ece.iisc.ernet.in/~spcom/2018/)**.
 - February 19, 2018: Our paper with Utkarsh Ojha and [Utsav Garg](https://utsavgarg.github.io/) is accepted at **[<span style="color:red">CVPR-2018</span>](http://cvpr2018.thecvf.com)**.
 - January 25, 2018: Our paper with [Aditya Ganeshan](https://www.linkedin.com/in/aditya-ganeshan-68341bb9/) titled "Generalizable Data-free Objective for Crafting Universal Adversarial Perturbations" is available in arXiv now [here](https://arxiv.org/abs/1801.08092) and the project page is [here](https://val-iisc.github.io/GD-UAP/).
-- 
+- July 18, 2017: Paper with [Utsav Garg](https://utsavgarg.github.io/) titled “Fast Feature Fool: A data independent approach to universal adversarial perturbations” is accepted in **[<span style="color:red">BMVC-2017</span>](https://bmvc2017.london)** and is available [here](https://arxiv.org/abs/1707.05572).
 
 ## Research
 
