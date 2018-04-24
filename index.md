@@ -35,7 +35,6 @@ I work primarily in the areas of Computer Vision and Deep Learning. Lately I hav
 
 ### 2016
 
-
 - Konda Reddy Mopuri and R. Venkatesh Babu, "Towards Semantic Visual Representation: Augmenting Image Representation with Natural Language Descriptors", in ICVGIP 2016 [[PDF](http://delivery.acm.org/10.1145/3020000/3010010/a64-mopuri.pdf?ip=14.139.128.14&id=3010010&acc=ACTIVE%20SERVICE&key=045416EF4DDA69D9%2EDB7584019D0D7099%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1524563025_f2212122c0e205378dcb9c3bee0d6cff)].
 - Suraj Srinivas, Ravi Kiran Sarvadevabhatla, Konda Reddy Mopuri, Nikita Prabhu, Srinivas S S Kruthiventi, R. Venkatesh Babu, "A Taxonomy of Deep Convolutional Neural Nets for Computer Vision", Frontiers in Robotics and AI, 2016 [[Link](http://journal.frontiersin.org/article/10.3389/frobt.2015.00036/full)].
 
