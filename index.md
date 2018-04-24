@@ -7,9 +7,7 @@ I am Konda Reddy Mopuri (కొండా రెడ్డి మోపూరి )
 ## Research Interests
 I work primarily in the areas of Computer Vision and Deep Learning. Lately I have been working on learning and understanding deep visual representations towards my PhD thesis.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### News
 
 ```markdown
 Syntax highlighted code block
