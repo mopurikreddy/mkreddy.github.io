@@ -11,7 +11,7 @@ I work primarily in the areas of Computer Vision and Deep Learning. Lately I hav
 ```markdown
 
 
-- February 19, 2018: Our paper with Utkarsh Ojha and [Utsav Garg](https://utsavgarg.github.io/) is accepted at CVPR-2018.
+- February 19, 2018: Our paper with Utkarsh Ojha and [Utsav Garg][https://utsavgarg.github.io/] is accepted at CVPR-2018.
 - January 25, 2018: Our paper with [Aditya Ganeshan](https://www.linkedin.com/in/aditya-ganeshan-68341bb9/) titled "Generalizable Data-free Objective for Crafting Universal Adversarial Perturbations" is available in arXiv now [here](https://arxiv.org/abs/1801.08092) and the project page is [here](https://val-iisc.github.io/GD-UAP/).
 
 ```
