@@ -23,7 +23,7 @@ I work primarily in the areas of Computer Vision and Deep Learning. Lately I hav
 
 ## Publications
 
-For a full list of publications click !![here](./publications.html)
+For a full list of publications click [here](./publications.html)
 
 ### 2018
 
