@@ -5,7 +5,7 @@
 I am Konda Reddy Mopuri (కొండా రెడ్డి మోపూరి ), a PhD student advised by [Prof. R. Venkatesh Babu](http://www.serc.iisc.ernet.in/~venky/), at [Video Analytics Lab](http://val.serc.iisc.ernet.in/), Department of Computational and Data Sciences ([CDS](http://cds.iisc.ac.in/)), [Indian Institute of Science](http://iisc.ac.in), Bangalore, India.
 
 ## Research Interests
-I work primarily in the area of computer vision and Deep Learning. My research interests are learning and understanding deep visual representations.
+I work primarily in the areas of Computer Vision and Deep Learning. Lately I have been working on learning and understanding deep visual representations towards my PhD thesis.
 
 ### Markdown
 
