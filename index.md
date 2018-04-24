@@ -40,3 +40,43 @@ I work primarily in the areas of Computer Vision and Deep Learning. Lately I hav
 ### 2015
 
 - Konda Reddy Mopuri, R. Venkatesh Babu, "Object Level Deep Feature Pooling for Compact Image Representation", in CVPRW, DeepVision 2015. [[Project](http://val.serc.iisc.ernet.in/oldf/)][[PDF](http://www.cv-foundation.org/openaccess/content_cvpr_workshops_2015/W03/papers/Mopuri_Object_Level_Deep_2015_CVPR_paper.pdf)].
+
+## Test
+
+<p style="margin:-24px 0px 0px 0px;"></p>
+    
+<a name="news"></a>
+    <div class="page-header"><h2 id="textbook" style="font-size:25px;">News</h2></div>
+
+
+<table class="table table-borderless" style="border-style:solid; border-width:1.2px;">
+            <tbody>
+            <!--FFD6BA-->
+
+
+<tr>
+    <td bgcolor="#FFD6BA" width="110">Apr 14, 2018</td>
+    <td bgcolor="#FFD6BA" width="40"></td>
+    <td bgcolor="#FFD6BA">Talk at <a href="https://www.iiit.ac.in/" target="_blank">IIIT-Hyderabad</a>.</td>
+</tr>
+<tr>
+    <td width="110">Mar 7, 2018</td><td width="40"></td><td> Talk at <a href="https://www.cse.iitb.ac.in/webcal/view_entry.php?id=4502&date=20180307&user=_NUC_department" target="_blank">IIT-Bombay</a>.</td>
+</tr>
+<tr>
+    <td width="110">Feb 19, 2018</td><td width="40"></td><td> Talk at  <a href="http://www.cse.iitd.ac.in/index.php/2011-12-29-23-14-40/talks-by-visitors" target="_blank">IIT-Delhi</a>.</td>
+</tr>
+<tr>
+    <td width="110">Jan 29, 2018</td><td width="40"></td><td> I will be serving as a Program Committee member for <a href="https://www.ijcai-18.org" target="_blank">IJCAI-ECAI 2018</a>.</td>
+</tr>
+<tr>
+    <td width="110">Jan 18, 2018</td><td width="40"></td><td> Talk at  <a href="https://research.adobe.com" target="_blank">Adobe Research</a>, Bangalore.</td>
+</tr>
+<tr>
+    <td width="110">Nov 8, 2017</td><td width="40"></td><td> Paper accepted at <a href="https://aaai.org/Conferences/AAAI-18/">AAAI-2018</a>.</td>
+</tr>
+</tbody></table>
+
+</div>
+<br>
+
+<p style="margin:2px 0px 0px 0px;"></p>
