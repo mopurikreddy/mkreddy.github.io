@@ -6,9 +6,10 @@ I am Konda Reddy Mopuri, a PhD student advised by [Prof. R. Venkatesh Babu](http
 
 -----
 ## Research Interests
+-----
 
 I work primarily in the area of computer vision. My research interests are learning and understanding deep visual representations.
------
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
