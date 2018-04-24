@@ -10,6 +10,8 @@ I work primarily in the areas of Computer Vision and Deep Learning. Lately I hav
 ### News
 
 ```markdown
+1. February 19, 2018: Our paper with Utkarsh Ojha and Utsav Garg is accepted at CVPR-2018.
+2. January 25, 2018: Our paper with Aditya Ganeshan titled "Generalizable Data-free Objective for Crafting Universal Adversarial Perturbations" is available in arXiv now here and the project page is here.
 Syntax highlighted code block
 
 # Header 1
