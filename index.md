@@ -4,8 +4,7 @@
 I am Konda Reddy Mopuri (కొండా రెడ్డి మోపూరి ), a PhD student advised by [Prof. R. Venkatesh Babu](http://www.serc.iisc.ernet.in/~venky/), at [Video Analytics Lab](http://val.serc.iisc.ernet.in/), Department of Computational and Data Sciences ([CDS](http://cds.iisc.ac.in/)), [Indian Institute of Science](http://iisc.ac.in), Bangalore, India.
 
 My [CV](https://drive.google.com/file/d/0B03bwxgziaQydko0dmRFSkNxblE/view?usp=sharing) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=OCZ2vIYAAAAJ)
-## Research Interests
-I work primarily in the areas of Computer Vision and Deep Learning. Lately I have been working on learning and understanding deep visual representations towards my PhD thesis.
+
 ## News
 
 - April 11, 2018: Our paper with Vishal B Athreya is accepted in **[<span style="color:red">SPCOM-2018</span>](http://ece.iisc.ernet.in/~spcom/2018/)**.
@@ -13,7 +12,8 @@ I work primarily in the areas of Computer Vision and Deep Learning. Lately I hav
 - January 25, 2018: Our paper with [Aditya Ganeshan](https://www.linkedin.com/in/aditya-ganeshan-68341bb9/) titled "Generalizable Data-free Objective for Crafting Universal Adversarial Perturbations" is available in arXiv now [here](https://arxiv.org/abs/1801.08092) and the project page is [here](https://val-iisc.github.io/GD-UAP/).
 - July 18, 2017: Paper with [Utsav Garg](https://utsavgarg.github.io/) titled “Fast Feature Fool: A data independent approach to universal adversarial perturbations” is accepted in **[<span style="color:red">BMVC-2017</span>](https://bmvc2017.london)** and is available [here](https://arxiv.org/abs/1707.05572).
 
-## Research
+## Research Interests
+I work primarily in the areas of Computer Vision and Deep Learning. Lately I have been working on learning and understanding deep visual representations towards my PhD thesis.
 ![](./images/research-april-2018.png)
 
 - Augmenting Deep Visual Representations with Side and Additional Information
